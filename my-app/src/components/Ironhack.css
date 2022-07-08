@@ -1,0 +1,7 @@
+.ironhack {
+    padding-top: 1rem;
+    padding-right: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;    
+}
